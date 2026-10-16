@@ -7,4 +7,3 @@ Physicist by training, AI engineer by trade. I build ML systems and write about 
 
 Open-source contributions
 - [DashAI](https://github.com/DashAISoftware/dashAI), Chile's public AI framework: contributed a BART regression model and a Matthews correlation coefficient metric.
-- [auto-bayesian](https://github.com/SantanderAI/auto-bayesian), Santander AI Lab: fix for a silent NaN-handling bug in one-to-many aggregates (PR open)
